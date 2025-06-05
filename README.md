@@ -10,7 +10,7 @@ This project analyzes the **Amazon-Sales Report** dataset using Power BI to desi
 
 ##  Files Included
 - `Amazon_Sales_Dashboard.pbix` – Power BI interactive dashboard file
-- [Amazon_Sales_Dashboard_Summary.pptx] – PPT summary of insights
+- [Amazon_Sales_Dashboard_Summary.pptx] https://github.com/SahilChhetri29/Task-3-data-analytics-/blob/main/Amazon_Sales_Dashboard_Summary.pptx– PPT summary of insights
 - [Amazon-Sales Report.xlsx](https://github.com/user-attachments/files/20614526/Amazon-Sales.Report.xlsx) – Original dataset used for analysis
 - ![Dashboard Screenshot](https://github.com/user-attachments/assets/21b9a4f1-6432-46f5-a450-eac574d79e7f) – Dashboard Screenshot
 
